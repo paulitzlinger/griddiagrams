@@ -2,6 +2,10 @@
 
 *Griddiagrams* is a Python package for working with grid diagrams of (fibered) knots, designed to find grid diagrams that admit a unique grid state whose Alexander grading is maximal and unique (more precisely, the Alexander grading even reaches an upper bound as explained HERE (link to be added soon)).
 
+This tool was developed in order to analyse an open problem in grid homology. See *Open Problem 17.1.5* from the book [Grid Homology for Knots and Links](https://web.math.princeton.edu/~petero/GridHomologyBook.pdf)
+
+I complete list of all suitable grid diagrams of fibered knots that where found using this program can be found HERE (link to be added soon).
+
 ## Data Setup
 
 This package uses the database from [knotinfo](https://knotinfo.org) which contains fibered prime knots up to crossing number 13.
