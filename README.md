@@ -1,6 +1,6 @@
 # Griddiagrams
 
-Griddiagrams is a Python package for working with grid diagrams of (fibered) knots, designed to find grid diagrams that admit a unique grid state whose Alexander grading is maximal and unique (more precisely, the Alexander grading even reaches an upper bound as explained HERE (link to be added soon)).
+*Griddiagrams* is a Python package for working with grid diagrams of (fibered) knots, designed to find grid diagrams that admit a unique grid state whose Alexander grading is maximal and unique (more precisely, the Alexander grading even reaches an upper bound as explained HERE (link to be added soon)).
 
 ## Data Setup
 
@@ -23,7 +23,7 @@ This package uses the database from [knotinfo](https://knotinfo.org) which conta
 
 ## Example Workflow
 
-### Loading Functions and Data
+### Importing functions and loading data
 
 ```python
 from griddiagrams.data import load_knot_data, get_grid_notation, get_genus
