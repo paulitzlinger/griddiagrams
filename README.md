@@ -23,7 +23,7 @@ This package uses the database from [knotinfo](https://knotinfo.org) which conta
 
 ## Example Workflow
 
-### Loading Data
+### Loading Functions and Data
 
 ```python
 from griddiagrams.data import load_knot_data, get_grid_notation, get_genus
