@@ -4,7 +4,7 @@
 
 This tool was developed in order to analyse an open problem in grid homology. See *Open Problem 17.1.5* from the book [Grid Homology for Knots and Links](https://web.math.princeton.edu/~petero/GridHomologyBook.pdf)
 
-A complete list of all suitable grid diagrams of fibered knots that where found using this program can be found HERE (link to be added soon).
+A complete list of all suitable grid diagrams of fibered knots that were found using this program can be found HERE (link to be added soon).
 
 ## Data Setup
 
