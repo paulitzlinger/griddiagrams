@@ -1,14 +1,14 @@
 # Griddiagrams
 
-Griddiagrams is a Python package for working with grid diagrams of (fibered) knots, designed to find grid diagrams that admit a unique grid state whose Alexander grading is maximal and unique (more precisely, the Alexander grading even reaches an upper bound as explained HERE).
+Griddiagrams is a Python package for working with grid diagrams of (fibered) knots, designed to find grid diagrams that admit a unique grid state whose Alexander grading is maximal and unique (more precisely, the Alexander grading even reaches an upper bound as explained HERE (link to be added soon)).
 
 ## Data Setup
 
-This package uses the database from https://knotinfo.math.indiana.edu/ which contains fibered prime knots up to crossing number 13.
+This package uses the database from [knotinfo](https://knotinfo.org) which contains fibered prime knots up to crossing number 13.
 
 ### Manual download
 
-1. Visit https://knotinfo.math.indiana.edu/
+1. Visit [knotinfo](https://knotinfo.org)
 2. Use the advanced search with these settings:
    - Fibered: Y (Yes)
    - Select these columns to display:
